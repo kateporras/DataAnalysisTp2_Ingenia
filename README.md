@@ -7,7 +7,7 @@ La enfermedades cardiovasculares (ECV) son la principal causa de muerte a nivel 
 
 # Acerca del dataset
 
-## Información de atributos
+**Información de atributos**
 
 1. **Age**: Edad del paciente [años]  
 2. **Sex**: Sexo del paciente [M: Masculino, F: Femenino]  
@@ -31,9 +31,9 @@ La enfermedades cardiovasculares (ECV) son la principal causa de muerte a nivel 
    - N: No  
 10. **Oldpeak**: Depresión del segmento ST inducida por el ejercicio en relación con el reposo  
 11. **ST_Slope**: Pendiente del segmento ST durante el ejercicio máximo  
-   - Arriba: Pendiente ascendente  
-   - Plano: Pendiente plana  
-   - Abajo: Pendiente descendente  
+   - Up: Pendiente ascendente  
+   - Flat: Pendiente plana  
+   - Down: Pendiente descendente  
 12. **HeartDisease**: Clase de salida  
    - 1: Enfermedad cardíaca  
    - 0: Normal  
@@ -43,4 +43,4 @@ La enfermedades cardiovasculares (ECV) son la principal causa de muerte a nivel 
 fedesoriano. (September 2021). Heart Failure Prediction Dataset. Retrieved [Date Retrieved] from https://www.kaggle.com/fedesoriano/heart-failure-prediction.
 
 # Integrante:
-## **Sherly Porras C.** 
+**Sherly Porras C.** 
