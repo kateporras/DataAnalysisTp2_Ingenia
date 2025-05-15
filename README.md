@@ -1,4 +1,5 @@
 # Predicción de Enfermedad Cardiaca
+
 En esta primera etapa aremos un análisis de los datos y visualizaciones.
 
 # Enfermedades Cardiacas
@@ -6,22 +7,40 @@ La enfermedades cardiovasculares (ECV) son la principal causa de muerte a nivel 
 
 # Acerca del dataset
 
-Información de atributos
-	1. Age: edad del paciente [años]
-	2. Sex: sexo del paciente [M: Masculino, F: Femenino]
-	3. ChestPainType: tipo de dolor torácico [TA: Angina típica, ATA: Angina atípica, NAP: Dolor no anginoso, ASY: Asintomático]
-	4. RestingBP: presión arterial en reposo [mm Hg]
-	5. Cholesterol: colesterol sérico [mm/dl]
-	6. FastingBS: glucemia en ayunas [1: si glucemia en ayunas > 120 mg/dl, 0: en caso contrario]
-	7. RestingECG:: resultados del electrocardiograma en reposo  [Normal: Normal, ST: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV), LVH: showing probable or definite left ventricular hypertrophy by Estes' criteria]
-	8. MaxHR: frecuencia cardíaca máxima alcanzada [Valor numérico entre 60 y 202]
-	9. ExerciseAngina: angina inducida por el ejercicio [Y: Sí, N: No]
-	10. Oldpeak: oldpeak = ST [Valor numérico medido en depresión]
-	11. ST_Slope: la pendiente del segmento ST del ejercicio máximo [Arriba: pendiente ascendente, Plano: plano, Abajo: pendiente descendente]
-	12. HeartDisease: clase de salida [1: enfermedad cardíaca, 0: normal] 
+## Información de atributos
 
-# De donde se saco los datos
+1. **Age**: Edad del paciente [años]  
+2. **Sex**: Sexo del paciente [M: Masculino, F: Femenino]  
+3. **ChestPainType**: Tipo de dolor torácico  
+   - TA: Angina típica  
+   - ATA: Angina atípica  
+   - NAP: Dolor no anginoso  
+   - ASY: Asintomático  
+4. **RestingBP**: Presión arterial en reposo [mm Hg]  
+5. **Cholesterol**: Colesterol sérico [mm/dl]  
+6. **FastingBS**: Glucemia en ayunas  
+   - 1: si glucemia en ayunas > 120 mg/dl  
+   - 0: en caso contrario  
+7. **RestingECG**: Resultados del electrocardiograma en reposo  
+   - Normal: Normal  
+   - ST: Anomalía de la onda ST-T (inversiones de la onda T y/o elevación o depresión del ST de > 0.05 mV)  
+   - LVH: Hipertrofia ventricular izquierda probable o definida según los criterios de Estes  
+8. **MaxHR**: Frecuencia cardíaca máxima alcanzada [valor numérico entre 60 y 202]  
+9. **ExerciseAngina**: Angina inducida por el ejercicio  
+   - Y: Sí  
+   - N: No  
+10. **Oldpeak**: Depresión del segmento ST inducida por el ejercicio en relación con el reposo  
+11. **ST_Slope**: Pendiente del segmento ST durante el ejercicio máximo  
+   - Arriba: Pendiente ascendente  
+   - Plano: Pendiente plana  
+   - Abajo: Pendiente descendente  
+12. **HeartDisease**: Clase de salida  
+   - 1: Enfermedad cardíaca  
+   - 0: Normal  
+
+# Ubicación de los datos
  
 fedesoriano. (September 2021). Heart Failure Prediction Dataset. Retrieved [Date Retrieved] from https://www.kaggle.com/fedesoriano/heart-failure-prediction.
 
-#Sherly Porras C. 
+# Integrante:
+## **Sherly Porras C.** 
